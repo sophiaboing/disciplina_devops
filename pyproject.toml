@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "complexoperations_sophiaboing"
+version = "0.1.4"
+authors = [
+  { name="Sophia Boing", email="sophiarighetto@gmail.com" },
+]
+description = "Complex Operations Package"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/sophiaboing/disciplina_devops"
+"Bug Tracker" = "https://github.com/sophiaboing/disciplina_devops/issues"
