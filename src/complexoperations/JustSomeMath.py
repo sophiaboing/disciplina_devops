@@ -21,4 +21,3 @@ class JustSomeMath:
         '''
         random_int = random.randint(0, number)
         return math.pow(number, random_int)
-    

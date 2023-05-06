@@ -14,3 +14,4 @@ class TestJustSomeMath:
         assert result > 0
 
         pass
+
