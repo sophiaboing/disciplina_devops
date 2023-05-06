@@ -2,6 +2,7 @@ from complexoperations.JustSomeMath import JustSomeMath
 
 class TestJustSomeMath:
 
+
     def test1(self):
         # Arrange
         complexop = JustSomeMath()
@@ -14,4 +15,3 @@ class TestJustSomeMath:
         assert result > 0
 
         pass
-
