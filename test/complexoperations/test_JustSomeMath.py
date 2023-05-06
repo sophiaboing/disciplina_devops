@@ -3,7 +3,6 @@ from complexoperations.JustSomeMath import JustSomeMath
 
 class TestJustSomeMath:
 
-
     def test1(self):
         # Arrange
         complexop = JustSomeMath()
