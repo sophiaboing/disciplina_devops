@@ -1,5 +1,6 @@
 from complexoperations.JustSomeMath import JustSomeMath
 
+
 class TestJustSomeMath:
 
 
