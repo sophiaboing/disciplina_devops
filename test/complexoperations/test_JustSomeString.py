@@ -1,3 +1,6 @@
+import sys
+sys.path.append('src')
+
 from complexoperations.JustSomeString import JustSomeString
 
 
