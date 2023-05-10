@@ -1,9 +1,7 @@
 import sys
-sys.path.append('src')
-
 from apicomplexoperations.main import app
 from fastapi.testclient import TestClient
-
+sys.path.append('src')
 
 client = TestClient(app)
 

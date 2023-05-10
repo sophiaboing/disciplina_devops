@@ -2,6 +2,7 @@ import sys
 from complexoperations.JustSomeString import JustSomeString
 sys.path.append('src')
 
+
 class TestJustSomeString:
 
     def test1(self):

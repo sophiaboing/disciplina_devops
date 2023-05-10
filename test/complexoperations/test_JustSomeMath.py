@@ -1,8 +1,6 @@
 import sys
-sys.path.append('src')
-
 from complexoperations.JustSomeMath import JustSomeMath
-
+sys.path.append('src')
 
 class TestJustSomeMath:
 
