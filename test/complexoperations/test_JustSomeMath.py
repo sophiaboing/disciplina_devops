@@ -2,6 +2,7 @@ import sys
 from complexoperations.JustSomeMath import JustSomeMath
 sys.path.append('src')
 
+
 class TestJustSomeMath:
 
     def test1(self):
