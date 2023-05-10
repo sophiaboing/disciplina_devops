@@ -1,10 +1,7 @@
 import sys
-sys.path.append('src')
-
-
 from fastapi import FastAPI, HTTPException
 from complexoperations import JustSomeMath, JustSomeString
-
+sys.path.append('src')
 
 app = FastAPI()
 mathop = JustSomeMath.JustSomeMath()
