@@ -1,6 +1,6 @@
 import sys
-from complexoperations.JustSomeString import JustSomeString
 sys.path.append('src')
+from complexoperations.JustSomeString import JustSomeString
 
 
 class TestJustSomeString:
