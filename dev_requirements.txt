@@ -3,3 +3,6 @@ flake8
 pdoc==12.*
 build==0.8.*
 twine
+fastapi==0.78.*
+uvicorn[standard]
+httpx
